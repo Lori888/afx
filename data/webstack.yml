@@ -1045,6 +1045,9 @@
     - title: webstack.cc
       url: https://webstack.cc
       description: webstack - 设计师网址导航
+    - title: 爱分享导航站
+      url: https://oulh.github.io/nav/
+      description: Hugo-Webstack主题演示站
     - title: 一为导航
       url: https://nav.iowen.cn/
       description: onenav主题演示站
