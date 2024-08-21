@@ -18,11 +18,19 @@
 
    ![](https://raw.githubusercontent.com/oulh/nav/main/static/images/gh-pages.jpg)
 
-3. Github Action 设置
+~~3. Github Action 设置~~
    
-   如果是导入的：Settings - Actions - General - Allow all actions and reusable workflows
+   ~~如果是导入的：Settings - Actions - General - Allow all actions and reusable workflows~~
    
-   如果是Fork的：Actions - "I understand my workflows, go ahead and enable them"
+   ~~如果是Fork的：Actions - "I understand my workflows, go ahead and enable them"~~
+
+3. 部署
+   
+   右侧页面点击【Static HTML】中的【Configure】：
+   ![](deploy1.png)
+   
+   删除原有代码，复制 .github/workflows/hugo.yml 所有代码粘贴进去，然后点击右上角的【Commit changes…】：
+   ![](deploy2.png)
 
 4. 编辑自己的网站内容并Commit，每次提交修改都会触发自动构建。
    
