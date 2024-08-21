@@ -3,15 +3,21 @@
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
-    - title: YouTube
+    - title: 1024程序员开发工具箱
+      url: https://1024tools.com/
+      description: UUID在线生成、JSON格式化、UNIX时间戳转换、随机数|密码生成等
+    - title: Base64编码解码
+      url: https://www.matools.com/base64/
+      description: 将utf-8能表示的所有字符进行Base64编码加密解密
+    - title: 爬虫工具库
       logo: 
-      url: https://www.youtube.com/channel/UCgV1t5fHFvAVPyprEWvuIzg/
-      description: 一个专注于软件安装，科学上网教学的频道！
-    - title: 资源博客
-      qrcode: images/qrcodes/bk.png
-      logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
-      url: https://kjgx668.blogspot.com/
-      description: 资源分享，详细图文教程。
+      url: https://spidertools.cn/
+      description: JSON|Header|Cookie|HTML格式化、curl转换、url编解码等
+    - title: 草料二维码
+      qrcode: 
+      logo:  
+      url: https://cli.im/
+      description: 输入文本即可生成二维码，提供多种二维码样式、码制和容错率等设置，可制作符合自己需求的二维码。
     - title: 环球巴士
       qrcode: 
       logo: images/logos/HQBS.png
@@ -40,15 +46,9 @@
       logo:  
       url: https://sms-activate.org/?ref=4312619/
       description: 购买各国电话号码，用于在社交网络、聊天工具和其他服务中注册。
-    - title: Base64编码解码
-      url: https://www.matools.com/base64/
-      description: 将utf-8能表示的所有字符进行Base64编码加密解密
     - title: OneDrive直链
       url: https://onedrive.gimhoy.com/
       description: OneDrive直链获取工具
-    - title: UUID生成
-      url: https://1024tools.com/uuid/
-      description: UUID在线生成
     
 
 - taxonomy: 社区咨询
@@ -1036,10 +1036,10 @@
 - taxonomy: 友情链接
   icon: fa-link
   friend:
-    - title: 子页面一
+    - title: 开源软件
       url: sub1
       description: 本站子页面1
-    - title: 子页面二
+    - title: 私享站点
       url: sub2
       description: 本站子页面2
     - title: webstack.cc
